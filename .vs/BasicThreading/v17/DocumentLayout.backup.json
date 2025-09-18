@@ -1,18 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\espinola.253086\\source\\repos\\BasicThreading\\",
+  "WorkspaceRootPath": "H:\\sources\\BasicThreading\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2C382378-7CA0-4F83-88F0-E14CA0AA8129}|BasicThreading\\BasicThreading.csproj|c:\\users\\espinola.253086\\source\\repos\\basicthreading\\basicthreading\\mythreadclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2C382378-7CA0-4F83-88F0-E14CA0AA8129}|BasicThreading\\BasicThreading.csproj|solutionrelative:basicthreading\\mythreadclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2C382378-7CA0-4F83-88F0-E14CA0AA8129}|BasicThreading\\BasicThreading.csproj|c:\\users\\espinola.253086\\source\\repos\\basicthreading\\basicthreading\\frmbasicthread.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2C382378-7CA0-4F83-88F0-E14CA0AA8129}|BasicThreading\\BasicThreading.csproj|h:\\sources\\basicthreading\\basicthreading\\frmbasicthread.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2C382378-7CA0-4F83-88F0-E14CA0AA8129}|BasicThreading\\BasicThreading.csproj|solutionrelative:basicthreading\\frmbasicthread.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2C382378-7CA0-4F83-88F0-E14CA0AA8129}|BasicThreading\\BasicThreading.csproj|c:\\users\\espinola.253086\\source\\repos\\basicthreading\\basicthreading\\frmbasicthread.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{2C382378-7CA0-4F83-88F0-E14CA0AA8129}|BasicThreading\\BasicThreading.csproj|H:\\sources\\BasicThreading\\basicthreading\\frmbasicthread.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{2C382378-7CA0-4F83-88F0-E14CA0AA8129}|BasicThreading\\BasicThreading.csproj|solutionrelative:basicthreading\\frmbasicthread.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C382378-7CA0-4F83-88F0-E14CA0AA8129}|BasicThreading\\BasicThreading.csproj|H:\\sources\\BasicThreading\\basicthreading\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C382378-7CA0-4F83-88F0-E14CA0AA8129}|BasicThreading\\BasicThreading.csproj|solutionrelative:basicthreading\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C382378-7CA0-4F83-88F0-E14CA0AA8129}|BasicThreading\\BasicThreading.csproj|H:\\sources\\BasicThreading\\basicthreading\\mythreadclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C382378-7CA0-4F83-88F0-E14CA0AA8129}|BasicThreading\\BasicThreading.csproj|solutionrelative:basicthreading\\mythreadclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,49 +26,61 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "H:\\sources\\BasicThreading\\BasicThreading\\Program.cs",
+              "RelativeDocumentMoniker": "BasicThreading\\Program.cs",
+              "ToolTip": "H:\\sources\\BasicThreading\\BasicThreading\\Program.cs",
+              "RelativeToolTip": "BasicThreading\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T10:29:56.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "FrmBasicThread.cs",
-              "DocumentMoniker": "C:\\Users\\espinola.253086\\source\\repos\\BasicThreading\\BasicThreading\\FrmBasicThread.cs",
+              "DocumentMoniker": "H:\\sources\\BasicThreading\\BasicThreading\\FrmBasicThread.cs",
               "RelativeDocumentMoniker": "BasicThreading\\FrmBasicThread.cs",
-              "ToolTip": "C:\\Users\\espinola.253086\\source\\repos\\BasicThreading\\BasicThreading\\FrmBasicThread.cs",
+              "ToolTip": "H:\\sources\\BasicThreading\\BasicThreading\\FrmBasicThread.cs",
               "RelativeToolTip": "BasicThreading\\FrmBasicThread.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAADwvyMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-18T10:08:56.105Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "MyThreadClass.cs",
-              "DocumentMoniker": "C:\\Users\\espinola.253086\\source\\repos\\BasicThreading\\BasicThreading\\MyThreadClass.cs",
+              "DocumentMoniker": "H:\\sources\\BasicThreading\\BasicThreading\\MyThreadClass.cs",
               "RelativeDocumentMoniker": "BasicThreading\\MyThreadClass.cs",
-              "ToolTip": "C:\\Users\\espinola.253086\\source\\repos\\BasicThreading\\BasicThreading\\MyThreadClass.cs",
+              "ToolTip": "H:\\sources\\BasicThreading\\BasicThreading\\MyThreadClass.cs",
               "RelativeToolTip": "BasicThreading\\MyThreadClass.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAgwBIAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-18T10:07:17.45Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-18T10:07:17.45Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "FrmBasicThread.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\espinola.253086\\source\\repos\\BasicThreading\\BasicThreading\\FrmBasicThread.cs",
+              "DocumentMoniker": "H:\\sources\\BasicThreading\\BasicThreading\\FrmBasicThread.cs",
               "RelativeDocumentMoniker": "BasicThreading\\FrmBasicThread.cs",
-              "ToolTip": "C:\\Users\\espinola.253086\\source\\repos\\BasicThreading\\BasicThreading\\FrmBasicThread.cs [Design]",
+              "ToolTip": "H:\\sources\\BasicThreading\\BasicThreading\\FrmBasicThread.cs [Design]",
               "RelativeToolTip": "BasicThreading\\FrmBasicThread.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-18T10:04:42.883Z",
               "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         }

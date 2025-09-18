@@ -33,6 +33,8 @@ namespace BasicThreading
 
             threadA.Join();
             threadB.Join();
+
+            lblMessage.Text = "-End of Thread-";
         }
     }
 }

@@ -8,3 +8,13 @@ C:\Users\espinola.253086\source\repos\BasicThreading\BasicThreading\obj\Debug\Ba
 C:\Users\espinola.253086\source\repos\BasicThreading\BasicThreading\obj\Debug\BasicThreading.csproj.CoreCompileInputs.cache
 C:\Users\espinola.253086\source\repos\BasicThreading\BasicThreading\obj\Debug\BasicThreading.exe
 C:\Users\espinola.253086\source\repos\BasicThreading\BasicThreading\obj\Debug\BasicThreading.pdb
+H:\sources\BasicThreading\BasicThreading\bin\Debug\BasicThreading.exe.config
+H:\sources\BasicThreading\BasicThreading\bin\Debug\BasicThreading.exe
+H:\sources\BasicThreading\BasicThreading\bin\Debug\BasicThreading.pdb
+H:\sources\BasicThreading\BasicThreading\obj\Debug\BasicThreading.csproj.AssemblyReference.cache
+H:\sources\BasicThreading\BasicThreading\obj\Debug\BasicThreading.Properties.Resources.resources
+H:\sources\BasicThreading\BasicThreading\obj\Debug\BasicThreading.csproj.GenerateResource.cache
+H:\sources\BasicThreading\BasicThreading\obj\Debug\BasicThreading.csproj.CoreCompileInputs.cache
+H:\sources\BasicThreading\BasicThreading\obj\Debug\BasicThreading.exe
+H:\sources\BasicThreading\BasicThreading\obj\Debug\BasicThreading.pdb
+H:\sources\BasicThreading\BasicThreading\obj\Debug\BasicThreading.FrmBasicThread123.resources
