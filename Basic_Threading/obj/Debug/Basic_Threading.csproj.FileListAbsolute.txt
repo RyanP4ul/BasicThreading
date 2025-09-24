@@ -1,0 +1,10 @@
+C:\Users\ryanpaul\source\repos\Basic_Threading\Basic_Threading\bin\Debug\Basic_Threading.exe.config
+C:\Users\ryanpaul\source\repos\Basic_Threading\Basic_Threading\bin\Debug\Basic_Threading.exe
+C:\Users\ryanpaul\source\repos\Basic_Threading\Basic_Threading\bin\Debug\Basic_Threading.pdb
+C:\Users\ryanpaul\source\repos\Basic_Threading\Basic_Threading\obj\Debug\Basic_Threading.csproj.AssemblyReference.cache
+C:\Users\ryanpaul\source\repos\Basic_Threading\Basic_Threading\obj\Debug\Basic_Threading.FrmBasicThread.resources
+C:\Users\ryanpaul\source\repos\Basic_Threading\Basic_Threading\obj\Debug\Basic_Threading.Properties.Resources.resources
+C:\Users\ryanpaul\source\repos\Basic_Threading\Basic_Threading\obj\Debug\Basic_Threading.csproj.GenerateResource.cache
+C:\Users\ryanpaul\source\repos\Basic_Threading\Basic_Threading\obj\Debug\Basic_Threading.csproj.CoreCompileInputs.cache
+C:\Users\ryanpaul\source\repos\Basic_Threading\Basic_Threading\obj\Debug\Basic_Threading.exe
+C:\Users\ryanpaul\source\repos\Basic_Threading\Basic_Threading\obj\Debug\Basic_Threading.pdb
